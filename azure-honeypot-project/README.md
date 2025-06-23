@@ -1,4 +1,4 @@
-Azure Honeypot Security Project
+Azure Honeypot Security Project (Josh Madakor Inspired)
 
 Overview Deployed a Windows Server virtual machine (VM) on Microsoft
 Azure as a honeypot to attract real-world intrusion attempts and
